@@ -1,0 +1,18 @@
+# 追加してみる
+ja:
+  hello: "こんにちは i18n"
+  new_book: "本を追加"
+
+  books:
+    index:
+      show: "詳細をみる"
+    book:
+      title: タイトル
+      memo: メモ
+      author: 著者
+      picture: 書影
+    form:
+      title: タイトル
+      memo: メモ
+      author: 著者
+      picture: 書影

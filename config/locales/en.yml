@@ -30,4 +30,14 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  hello: "Hello world i18n"
+  new_book: "New book???"
+
+  books:
+    index:
+      show: "Show this book"
+    book:
+      title: Title
+      memo: Memo
+      author: Author
+      picture: Picture
