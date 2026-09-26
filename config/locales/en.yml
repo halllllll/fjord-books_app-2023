@@ -31,11 +31,15 @@
 
 en:
   hello: "Hello world i18n"
-  new_book: "New book???"
-
+  link:
+    new_book: "New book"
+    detail_book: "Detail Book"
+    edit_book: "Edit this book"
   books:
     index:
-      show: "Show this book"
+
+  activerecord:
+    attributes:
     book:
       title: Title
       memo: Memo

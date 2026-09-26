@@ -1,17 +1,16 @@
 ja:
   hello: "こんにちは i18n"
-  new_book: "本を追加"
-
+  link:
+    new_book: "本を追加"
+    detail_book: "詳細をみる"
+    edit_book: "編集する"
   books:
-    index:
-      show: "詳細をみる"
-    book:
-      title: タイトル
-      memo: メモ
-      author: 著者
-      picture: 書影
-    form:
-      title: タイトル
-      memo: メモ
-      author: 著者
-      picture: 書影
+    # todo: 不要？
+
+  activerecord:
+    attributes:
+      book:
+        title: タイトル
+        memo: メモ
+        author: 著者
+        picture: 書影
