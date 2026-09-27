@@ -48,8 +48,8 @@ en:
 
   activerecord:
     attributes:
-    book:
-      title: Title
-      memo: Memo
-      author: Author
-      picture: Picture
+      book:
+        title: Title
+        memo: Memo
+        author: Author
+        picture: Picture
