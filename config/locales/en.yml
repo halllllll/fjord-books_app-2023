@@ -30,4 +30,26 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  link:
+    new_book: "New book"
+    detail_book: "Detail Book"
+    edit_book: "Edit this book"
+    list_books: "Back to books"
+  helpers:
+    submit:
+      create: "Crete Book"
+      update: "Update Book"
+  label:
+    destroy_book: "Destroy this book"
+  books:
+    create: "Book was successfully created."
+    delete: "Book was successfully destroyed."
+    update: "Book was successfully updated."
+
+  activerecord:
+    attributes:
+      book:
+        title: Title
+        memo: Memo
+        author: Author
+        picture: Picture

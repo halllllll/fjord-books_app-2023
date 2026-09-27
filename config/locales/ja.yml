@@ -1,0 +1,24 @@
+ja:
+  link:
+    new_book: 本を追加
+    detail_book: 詳細をみる
+    edit_book: 編集する
+    list_books: 一覧へ戻る
+  helpers:
+    submit:
+      create: 登録
+      update: 更新
+  label:
+    destroy_book: 削除
+  books:
+    create: 作成しました
+    delete: 削除しました
+    update: 更新しました
+
+  activerecord:
+    attributes:
+      book:
+        title: タイトル
+        memo: メモ
+        author: 著者
+        picture: 書影
