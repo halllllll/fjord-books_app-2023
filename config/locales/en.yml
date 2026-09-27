@@ -36,6 +36,10 @@ en:
     detail_book: "Detail Book"
     edit_book: "Edit this book"
     list_books: "Back to books"
+  helpers:
+    submit:
+      create: "Crete Book"
+      update: "Update Book"
   label:
     destroy_book: "Destroy this book"
   books:

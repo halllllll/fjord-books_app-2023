@@ -5,6 +5,10 @@ ja:
     detail_book: "詳細をみる"
     edit_book: "編集する"
     list_books: "一覧へ戻る"
+  helpers:
+    submit:
+      create: "登録"
+      update: "更新"
   label:
     destroy_book: "削除"
   books:
