@@ -40,6 +40,9 @@ en:
     destroy_book: "Destroy this book"
   books:
     index:
+    create: "Book was successfully created."
+    delete: "Book was successfully destroyed."
+    update: "Book was successfully updated."
 
   activerecord:
     attributes:

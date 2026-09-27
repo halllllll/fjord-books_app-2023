@@ -10,6 +10,9 @@ ja:
   books:
     # todo: 不要？
     index:
+    create: "作成しました"
+    delete: "削除しました"
+    update: "更新しました"
 
   activerecord:
     attributes:
