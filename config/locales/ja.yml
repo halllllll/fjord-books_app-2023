@@ -1,22 +1,19 @@
 ja:
-  hello: "こんにちは i18n"
   link:
-    new_book: "本を追加"
-    detail_book: "詳細をみる"
-    edit_book: "編集する"
-    list_books: "一覧へ戻る"
+    new_book: 本を追加
+    detail_book: 詳細をみる
+    edit_book: 編集する
+    list_books: 一覧へ戻る
   helpers:
     submit:
-      create: "登録"
-      update: "更新"
+      create: 登録
+      update: 更新
   label:
-    destroy_book: "削除"
+    destroy_book: 削除
   books:
-    # todo: 不要？
-    index:
-    create: "作成しました"
-    delete: "削除しました"
-    update: "更新しました"
+    create: 作成しました
+    delete: 削除しました
+    update: 更新しました
 
   activerecord:
     attributes:

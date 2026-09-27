@@ -30,7 +30,6 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world i18n"
   link:
     new_book: "New book"
     detail_book: "Detail Book"
@@ -43,7 +42,6 @@ en:
   label:
     destroy_book: "Destroy this book"
   books:
-    index:
     create: "Book was successfully created."
     delete: "Book was successfully destroyed."
     update: "Book was successfully updated."
