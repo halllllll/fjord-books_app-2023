@@ -4,8 +4,12 @@ ja:
     new_book: "本を追加"
     detail_book: "詳細をみる"
     edit_book: "編集する"
+    list_books: "一覧へ戻る"
+  label:
+    destroy_book: "削除"
   books:
     # todo: 不要？
+    index:
 
   activerecord:
     attributes:

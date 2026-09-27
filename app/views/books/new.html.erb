@@ -1,4 +1,4 @@
-<h1><%= t "new_book" %></h1>
+<h1><%= t "link.new_book" %></h1>
 
 <nav class="page-nav">
   <%= render "form", book: @book %>
@@ -7,5 +7,5 @@
 <br>
 
 <div>
-  <%= link_to "Back to books", books_path %>
+  <%= link_to t("link.list_books"), books_path %>
 </div>

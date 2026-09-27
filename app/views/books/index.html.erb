@@ -7,11 +7,11 @@
       <%= render book %>
       <p>
         <nav class="page-nav">
-          <%= link_to t(".show"), book %>
+          <%= link_to t("link.detail_book"), book %>
         </nav>
       </p>
     </div>
   <% end %>
 </div>
 
-<%= link_to(t("new_book"), new_book_path) %>
+<%= link_to(t("link.new_book"), new_book_path) %>
